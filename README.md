@@ -37,7 +37,7 @@ We also intend to try clustering algorithms to check whether we can identify clu
 * Pandas, SkLearn, TensorFlow, Keras, Numpy, MatplotLib
 * Selenium, Beautiful Soup,
 * AWS,
-* BOTO3
+* BOTO3.
 
 ## Visual Guide
 1. Please download our code from Github and follow instructions below
@@ -45,11 +45,14 @@ We also intend to try clustering algorithms to check whether we can identify clu
 3. ![2  Screenshot 2021-07-10 at 09 34 59](https://user-images.githubusercontent.com/42537931/125157503-b1764300-e16b-11eb-8926-bd5794f0ea2c.png)
 4. ![3  Screenshot 2021-07-10 at 09 35 26](https://user-images.githubusercontent.com/42537931/125157507-bcc96e80-e16b-11eb-993a-dced96f68323.png)
 5. ![4  Screenshot 2021-07-10 at 09 35 51](https://user-images.githubusercontent.com/42537931/125157515-c8b53080-e16b-11eb-9bc1-c2d6fb4fd6a1.png)
-6.![5  Screenshot 2021-07-10 at 09 36 12](https://user-images.githubusercontent.com/42537931/125157527-d074d500-e16b-11eb-8a5f-f7f4d50592bc.png)
+6.
+![5  Screenshot 2021-07-10 at 09 36 12](https://user-images.githubusercontent.com/42537931/125157527-d074d500-e16b-11eb-8a5f-f7f4d50592bc.png)
 7. You're good to go! Enjoy your safe browsing!
+   
 ![6  Screenshot 2021-07-10 at 09 39 11](https://user-images.githubusercontent.com/42537931/125157543-e387a500-e16b-11eb-8e7f-24cabc34a57f.png)
 
-8. Note that you will be receiving emails in this format:
+9. Note that you will be receiving emails in this format:
+
 ![MicrosoftTeams-image (9)](https://user-images.githubusercontent.com/42537931/125157713-c99a9200-e16c-11eb-8332-f8ce8bfee102.png)
  
 
