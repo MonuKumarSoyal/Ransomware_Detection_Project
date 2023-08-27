@@ -1,4 +1,4 @@
-# ransomware-preencryption-detector
+# Ransomware_Detector
 Safe browsing facility that detects ransomware in the pre-encryption execution step without imposing any danger to host instance.
 
 ## How to Run
